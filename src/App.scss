@@ -1,0 +1,13 @@
+* {
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  min-height: 100vh;
+  .MuiContainer-root {
+    min-height: calc(100vh - 161.66px);
+    padding: 11px;
+  }
+}
